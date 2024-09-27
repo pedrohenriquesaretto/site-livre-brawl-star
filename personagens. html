@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<link rel="stylesheet" href="personagens.css"
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Modos do Brawl Stars</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+<h1>personagens do Brawl Stars</h1>
+</header>
+<main>
+<section class="description">
+<p>Descubra os diferentes personagens do jogo no Brawl Stars. Cada personagens com habilidades uníca e divertida!</p>
+</section>
+<section class="modes">
+<article class="mode">
+<img src="shelly.png" alt="Shelly">
+<h2>Shelly</h2>
+<p>Shelly e uma guerreira perfeita e imbativel com a sua espingarda.Com tantas qualidades ela não entende como colt se tornou o favoritinho da galera.</p>
+</article>
+<article class="mode">
+<img src="crow.jfif" alt="corvo">
+<h2>Corvo</h2>
+<p>Corvo é caladão e não confia nimguém, mas dizem por aí que ele sempre aparece na lanchonte do starr park para encontrar bull e bibi.  </p>
+</article>
+<article class="mode">
+<img src="jessie.png" alt="jessie">
+<h3>Jessie</h3>
+<p>Apesar de ser um verdadeiro prodígio e construir armas com sucata jessie não passa de uma garotinha aos olhos da sua mãe, Pam.</p>
+</article>
+<article class="mode">
+<img src="chester.png" alt="chester">
+<h3>Chester</h3>
+<p>Chester está sempre zoando os outros.Quanto mais irrita alguém,mais ele se diverte... ainda mais se esse alguém for a mandy.</p>
+</article>
+<article class="mode">
+<img src="dynamike.jfif" alt="Dynamike">
+<h3>Dynamike</h3>
+<p>Dynamike é um garimpeiro aposentado que, depois de vários anos usando dinamites, ficou obececado por explosões.</p>
+</article>
+<article class="mode">
+<img src="colette.jfif" alt="Colette">
+<h3>Colette</h3>
+<p>Colette tem uma coleção de miniaturas e bichos de pelúcia de cada um dos brawlers.</p>
+</article>
+<article class="mode">
+<img src="piper.png" alt="Piper">
+<h3>Piper</h3>
+<p>O maior sonho da Piper é ser confeiteira para fazer tortas, biscoitos e vários doces. Só não pergunte sobre seu passado se não quiser acabar no forno.</p>
+</article>
+<article class="mode">
+<img src="tick.jfif" alt="Tick">
+<h3>Tick</h3>
+<p>Tick segue Penny por tudo como um cachorrinho.Ele não colabora muito com os planos e apenas explode as coisas.</p>
+</article>
+</section>
+</main>
+<footer>
+<p>&copy; 2024 Brawl Stars Fan Page. Todos os direitos reservados.</p>
+</footer>
+</body>
+</html>
